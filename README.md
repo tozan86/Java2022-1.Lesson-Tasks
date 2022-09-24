@@ -1,1 +1,1 @@
-# java2022-1.Ders-devleri
+# java2022-1.Ders-Ödevleri
